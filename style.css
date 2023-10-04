@@ -1,0 +1,70 @@
+
+table,th,tr,td{
+    border:2px solid rgb(2, 13, 49) ;
+    border-collapse: collapse;
+    color: darkblue;
+}
+        table,td,th{
+            border: 3px solid blue;
+        }
+        table{
+            border-collapse: collapse;
+            width: 70%;
+        }
+        th{
+            height: 40px;
+        }
+        td{
+        text-align: center;
+        }
+        th,td{
+            padding: 5px;
+        }
+        tr:hover{
+            background-color: rgb(111, 153, 237);
+        }
+    body{
+        background-image: url(https://img.freepik.com/free-vector/blue-fluid-shape-frame-design-resource_53876-114596.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+div table{
+    margin: 30px 10px ;
+    margin-bottom: 25px;
+}
+    ol{
+        border: 2px solid blue;
+        border-radius: 10%;
+        
+    }
+    ul{
+        border: 2px solid blue;
+        border-radius: 10%;
+    list-style-type: square;
+       
+    
+    }
+    ol li{
+        color: darkblue;
+    }
+    ul li {
+        color: darkblue;
+    }
+    h1{
+        text-indent: 250px;
+        color: rgb(10, 133, 209);
+        text-shadow: 2px 2px 5px rgb(6, 6, 198);
+    }
+    th{
+        background-color: rgb(182, 182, 253);
+    }
+    h5{
+        color: rgb(2, 2, 120);
+        text-shadow: 2px 2px 5px rgb(6, 6, 198);
+    }
+    h1 b{
+        color: darkblue;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+   
